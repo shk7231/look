@@ -1,9 +1,11 @@
-package info.androidhive.loginandregistration;
+package com.example.look;
 
-import info.androidhive.loginandregistration.helper.SQLiteHandler;
-import info.androidhive.loginandregistration.helper.SessionManager;
+import info.androidhive.loginandregistration.R;
 
 import java.util.HashMap;
+
+import com.example.look.helper.SQLiteHandler;
+import com.example.look.helper.SessionManager;
 
 import android.app.Activity;
 import android.content.Intent;

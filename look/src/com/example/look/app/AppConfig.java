@@ -1,4 +1,4 @@
-package info.androidhive.loginandregistration.app;
+package com.example.look.app;
 
 public class AppConfig {
 	// Server user login url

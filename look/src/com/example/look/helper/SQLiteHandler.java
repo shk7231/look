@@ -3,7 +3,7 @@
  * URL: www.androidhive.info
  * twitter: http://twitter.com/ravitamada
  * */
-package info.androidhive.loginandregistration.helper;
+package com.example.look.helper;
 
 import java.util.HashMap;
 

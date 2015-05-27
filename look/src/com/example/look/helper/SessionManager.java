@@ -1,4 +1,4 @@
-package info.androidhive.loginandregistration.helper;
+package com.example.look.helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;
